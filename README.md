@@ -1,12 +1,12 @@
 <p align="center">
   <a href="">
-      <img width="20%" src="https://raw.githubusercontent.com/trunicz/nkoal/main/docs/public/isotipo.png" alt="nkoal" />
+      <img width="20%" src="https://raw.githubusercontent.com/trunicz/nkoal/master/docs/public/isotipo.png" alt="nkoal" />
       <h1 align="center">Nkoal Tool</h1>
   </a>
 </p>
 </br>
 <p align="center">
-  <a href="https://github.com/trunicz/nkoal/blob/main/license">
+  <a href="https://github.com/trunicz/nkoal/blob/master/license">
     <img src="https://img.shields.io/npm/l/@nextui-org/react?style=flat" alt="License">
   </a>
   <a href="https://www.npmjs.com/package/nkoal">
