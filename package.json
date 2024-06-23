@@ -1,12 +1,16 @@
 {
   "name": "nkoal",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "bin": {
     "nkoal": "./bin/index.js"
   },
   "scripts": {
-    "serve": ".\\pocketbase serve"
+    "serve": ".\\pocketbase serve",
+    "nkoal": "node ./bin/index.js"
+  },
+  "engines": {
+    "node": ">=18.17"
   },
   "keywords": [
     "Utils",
@@ -15,6 +19,7 @@
     "Template",
     "Add Component"
   ],
+  "engineStrict": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/trunicz/nkoal"
@@ -28,6 +33,7 @@
     "chalk": "^5.3.0",
     "commander": "^12.1.0",
     "dotenv": "^16.4.5",
+    "gradient-string": "^2.0.2",
     "inquirer": "^9.2.23",
     "ora": "^8.0.1"
   }
